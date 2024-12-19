@@ -1,14 +1,11 @@
-import './App.css'
+const App = () => {
 
-function App() {
 
   return (
-    <>
-      <div>
-        real state
-      </div>
-    </>
+    <div>
+      kaif
+    </div>
   )
-};
+}
 
 export default App
