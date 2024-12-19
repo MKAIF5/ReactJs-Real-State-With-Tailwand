@@ -1,10 +1,14 @@
+import Body from "./components/Body";
+import "./App.css"
+
 const App = () => {
 
-
   return (
-    <div>
-      kaif
-    </div>
+    <>
+      <div className="w-full overflow-hidden">
+        <Body />
+      </div>
+    </>
   )
 }
 
